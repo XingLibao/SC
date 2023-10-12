@@ -1,3 +1,4 @@
 hello!
 
 hello! modified in master.
+hello! modified in hot-fix.
